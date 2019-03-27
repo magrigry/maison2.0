@@ -1,0 +1,110 @@
+﻿/******* BODY (Corps du site) *******/
+
+.gestion {
+	margin-left: auto;
+    margin-right: auto;
+	}
+/*TITRE*/
+.title_h2 {
+	font-family: Impact, Charcoal, sans-serif,;
+	color: white;
+	text-decoration: underline;
+	}
+
+.gestion_center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	}
+
+th {
+	text-indent: 15px;
+	margin-left: auto;
+    margin-right: auto;
+	}
+
+.table_rad {
+	background-color: #060606;
+	}
+
+/*BOUTONS*/
+.btn { 
+	/* Design des boutons */ 
+	  display: inline-block;
+	  padding: 6px 12px;
+	  margin-bottom: 0;
+	  font-size: 14px;
+	  font-weight: normal;
+	  line-height: 1.42857143;
+	  text-align: center;
+	  white-space: nowrap;
+	  vertical-align: middle;
+	  cursor: pointer;
+	  -webkit-user-select: none;
+		 -moz-user-select: none;
+		  -ms-user-select: none;
+			  user-select: none;
+	  background-image: none;
+	  border: 1px solid transparent;
+	  border-radius: 4px;
+	  height: 35px;
+	  width: 93px;
+	}
+
+.bouton_vert{ 
+	/* Couleur des boutons verts */
+		color: #fff;
+		background-color: #5cb85c;
+		border-color: #4cae4c;
+	}
+
+.bouton_rouge {
+	/* Couleur des boutons rouge */
+	  color: #fff;
+	  background-color: #d9534f;
+	  border-color: #d43f3a;	
+	}
+
+/* Couleur des boutons du Radiateur */	
+.bouton_bleu_fonce {
+  color: #fff;
+  background-color: #428bca;
+  border-color: #357ebd;	
+	}
+
+.bouton_bleu_ciel {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;	
+	}
+
+.bouton_jaune {
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;	
+	}
+
+/* Conseils */ 
+
+.title_gros {
+	font-size: 40px;
+	color: white;
+	text-decoration: bold;	
+	text-decoration: underline;
+	}
+
+.title_conseils {
+	font-size: 20px; 
+	color: white; 
+	text-decoration: bold;
+	}
+
+.img_conseils{
+	width: 130px;
+	height: 100px;
+	}
+
+.text_conseils {
+	font-size: 18px; 
+	color: white;	
+	}
